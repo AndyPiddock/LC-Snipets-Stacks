@@ -4,6 +4,6 @@
 
 All under a MIT licience
 
-drag stack - allows for non windowed, non decorated stack to be dragged
+dragStack.livecodescript - allows for non windowed, non decorated stack to be dragged
 
-quit stack - standard catch all quit routine
+quitStack.livecodescript - standard catch all quit routine
