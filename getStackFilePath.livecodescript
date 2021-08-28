@@ -6,7 +6,7 @@ function getBaseURL
   return item 1 to - 2 of ( the effective filename of me)
 end getBaseURL
 
---usage
+--usage example
 on openStack
     answer getBaseURL()  
 end openStack
