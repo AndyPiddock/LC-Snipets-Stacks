@@ -1,3 +1,4 @@
+script "quitStack"
 --standard catch all quit routine
 
 on mouseDown
