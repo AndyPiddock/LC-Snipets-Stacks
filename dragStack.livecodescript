@@ -1,3 +1,4 @@
+script "dragStack"
 --allows for non windowed, non decorated stack to be dragged
 
 local sgLeftOffset
