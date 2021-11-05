@@ -1,4 +1,4 @@
-script "checkForEmptyFields.livecodescript"
+script "checkForEmptyFields"
 
 function checkForEmptyFields pFieldName,pMessage
    
