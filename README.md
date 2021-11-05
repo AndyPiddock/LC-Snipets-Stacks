@@ -9,4 +9,4 @@ quitStack.livecodescript - standard catch all quit routine
 
 getStackFilePath.livecodescript - get the currents stacks file path
 
-createWebPageTemplate.kivecodescript - build a basic html web page
+createWebPageTemplate.livecodescript - build a basic html web page
