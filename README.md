@@ -12,3 +12,6 @@ getStackFilePath.livecodescript - get the currents stacks file path
 createWebPageTemplate.livecodescript - build a basic html web page
 
 checkForEmptyFields.livecodescript - checks that a fields contents are empty and shows a message if empty
+
+saveFileWithType.livecodescript - --save contents to file with type
+
