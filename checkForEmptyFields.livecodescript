@@ -4,7 +4,7 @@ function checkForEmptyFields pFieldName,pMessage
    
    --make sure fields that need to be filled , are!
    --provide an error message to the user
-   --perameters:-
+   --parameters:-
    --pFieldName : a field name
    --pMessage : a message to be displayed if field is empty
    
