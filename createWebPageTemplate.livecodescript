@@ -4,7 +4,7 @@ function buildHtmlPage pDescription, pAuthor, pIconPNG, pCSS, pJS, pTitle
    
    --construct a basic html page with place holders for 
    --more html and javascript to be incorporated
-   --perameters:-
+   --parameters:-
    --pDescription : meta tag, page description
    --pAuthor : meta tag, author
    --pIconPNG : link to url bar icon
