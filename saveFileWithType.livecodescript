@@ -3,7 +3,7 @@ script "saveFileWithType"
 function saveFile pFileContents, pFileType 
    
    --saves content to a file
-   --perameters:-
+   --parameters:-
    --pFileContents : the contents of the file to be saved
    --pFileType : the default file extention type, eg html, csv, txt...
    
