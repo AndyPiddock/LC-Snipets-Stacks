@@ -46,4 +46,4 @@ end buildHtmlPage
    put "/scripts/main.js" into tJS
    
    --build the html template page
-   get buildHtmlPage(tDescription, tAuthor, tIconPNG, tCSS, tJS, tTitle)
+   put buildHtmlPage(tDescription, tAuthor, tIconPNG, tCSS, tJS, tTitle) into fld "Html"
