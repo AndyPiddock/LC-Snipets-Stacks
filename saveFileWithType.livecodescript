@@ -7,7 +7,7 @@ function saveFile pFileContents, pFileType
    --pFileContents : the contents of the file to be saved
    --pFileType : the default file extention type, eg html, csv, txt...
    
-   ask file "Please choose a where you want to save the file" with type pFileType
+   ask file "Please choose where you want to save the file" with type pFileType
    if the result is not "cancel" then
       put it into tFileName
       --Ensure the file extension is html
