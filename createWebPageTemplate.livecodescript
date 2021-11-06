@@ -37,7 +37,7 @@ function buildHtmlPage pDescription, pAuthor, pIconPNG, pCSS, pJS, pTitle
 end buildHtmlPage
 
 --usage example
---populate perameters for the template page builder
+--populate parameters for the template page builder
    put fld "FldTitle" into tTitle
    put fld "FldDescription" into tDescription
    put fld "FldAuthor" into tAuthor
